@@ -118,7 +118,6 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 ## Contact
 
 Darren Morrison - darren09@live.ca  
-Carter Glynn - carter.glynn14@gmail.com  
 
 Project Link: [https://github.com/DarmorGamz/REPOSITORY_TEMPLATE](https://github.com/DarmorGamz/REPOSITORY_TEMPLATE)
 
